@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Elevate your graphics with Illustrator
+categories: Data viz
+---
+
 # **Elevate your graphics with Illustrator**
 
 NICAR 2024 Handout by Adam Marton, Philip Merrill College of Journalism
