@@ -266,6 +266,7 @@ p > img {
 
 .wrapper-masthead {
   margin-bottom: 25px;
+  background:#000;
 }
 
 .masthead {
@@ -309,13 +310,14 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #fff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
   text-align: left;
+
 
   @include mobile {
     text-align: center;
@@ -324,7 +326,7 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #fff;
   font-size: 16px;
 
   @include mobile {
@@ -347,7 +349,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #fff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
