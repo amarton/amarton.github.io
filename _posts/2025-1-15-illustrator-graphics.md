@@ -3,7 +3,7 @@ layout: post
 title:  Elevate your graphics with Illustrator
 ---
 
-NICAR 2024 Handout by Adam Marton, Philip Merrill College of Journalism
+NICAR Handout by Adam Marton, Philip Merrill College of Journalism
 
 This document will walk you through how to use Adobe Illustrator and Flourish Studio to create a heatmap that displays the rate of COVID-19 deaths by U.S. state between May 2020 and December 2022\. The graphic will also display vaccine milestones. 
 
