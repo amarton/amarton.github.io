@@ -1715,12 +1715,6 @@ display: none;
 
 
 
-
-</head>
-
-<body>
-
-
 <div class="container-fluid main-container">
 
 
