@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  From Code to Charts- Create DataWrapper Graphics Straight from R
+title:  From Code to Charts- Use the DataWrapper API to create graphics in R
 ---
 
 
@@ -1795,7 +1795,7 @@ datawrapper_auth(api_key =  &quot;INSERT YOUR API KEY HERE&quot;, overwrite=TRUE
 <h4>Call in data and display head</h4>
 <p>We are working with Minneapolis crime data from 2019 through early
 2025.</p>
-<p>The data can be downloaded here: <a href="https://raw.githubusercontent.com/amarton/nicar-2025/refs/heads/main/datawrapper-r/mn-crime-data.csv?token=GHSAT0AAAAAAC5MKVHU6IIGYJPHJ5RWNUBAZ4IIDTQ" class="uri">https://raw.githubusercontent.com/amarton/nicar-2025/refs/heads/main/datawrapper-r/mn-crime-data.csv?token=GHSAT0AAAAAAC5MKVHU6IIGYJPHJ5RWNUBAZ4IIDTQ</a></p>
+<p>The data can be downloaded here: <a href="https://raw.githubusercontent.com/amarton/nicar-2025/refs/heads/main/datawrapper-r/mn-crime-data.csv" class="uri">https://raw.githubusercontent.com/amarton/nicar-2025/refs/heads/main/datawrapper-r/mn-crime-data.csv</a></p>
 <p>If you are on a training computer at NICAR, it should already be
 available in the course folder.</p>
 <!-- rnb-text-end -->
