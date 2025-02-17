@@ -26,15 +26,15 @@ This document will walk you through how to use Adobe Illustrator and Flourish St
    ![][image1]  
      
 5. Switch to the preview tab. Make changes to the graphic via the tabs on the right side of the screen. I would suggest the following:  
-   1. Under the Heatmap tab, set cell padding to 0 and height to 1\.  
+   A. Under the Heatmap tab, set cell padding to 0 and height to 1\.  
       ![][image2]  
-   2. Under the Color tab, select “Numeric,” “Sequential,” and “Linear.” You might consider a custom color palette or choose one of the palettes baked into Flourish.  
+   B. Under the Color tab, select “Numeric,” “Sequential,” and “Linear.” You might consider a custom color palette or choose one of the palettes baked into Flourish.  
       ![][image3]  
         
-   3. Move the x-axis to the top. Set it to a 45 degree angle  
+   C. Move the x-axis to the top. Set it to a 45 degree angle  
       ![][image4]  
         
-   4. Go through the tabs and make any other changes you think are needed\!
+   D. Go through the tabs and make any other changes you think are needed\!
 
 6. Select “Export and publish” then “Publish to share and embed” then “Publish.”  
      
