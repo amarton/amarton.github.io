@@ -3,7 +3,7 @@ layout: post
 title:  Elevate your graphics with Illustrator
 ---
 
-NICAR Handout by Adam Marton, Philip Merrill College of Journalism
+NICAR 2025 Handout by Adam Marton, Philip Merrill College of Journalism
 
 This document will walk you through how to use Adobe Illustrator and Flourish Studio to create a heatmap that displays the rate of COVID-19 deaths by U.S. state between May 2020 and December 2022\. The graphic will also display vaccine milestones. 
 
@@ -45,12 +45,15 @@ This document will walk you through how to use Adobe Illustrator and Flourish St
 9. In Illustrator, select File \-\> Document Setup \-\> Edit Artboards. Make your canvas bigger so you have some room to add elements.  
      
 10.  Add your annotations. For each of the items below, draw a vertical line from the top of the heat map to the bottom at the appropriate month. Add the text at the bottom of the line (below the graphic). Style the annotations as you see fit. An example is below.  
-      
-    1. ***Dec.14, 2020:*** The first deliveries of the COVID-19 vaccines began  
-    2. ***Nov. 21, 2021:*** Age 18+ eligible for COVID-19 Vaccine Boosters  
-    3. ***Jan. 10, 2022:*** Everyone age 12+ eligible for booster  
-       [Source](https://www.hhs.gov/coronavirus/covid-19-vaccines/index.html)  
-       ![][image6]  
+    
+
+***Dec.14, 2020:*** The first deliveries of the COVID-19 vaccines began  
+***Nov. 21, 2021:*** Age 18+ eligible for COVID-19 Vaccine Boosters  
+***Jan. 10, 2022:*** Everyone age 12+ eligible for booster
+
+[Source](https://www.hhs.gov/coronavirus/covid-19-vaccines/index.html)  
+![][image6]
+
 11. Add your legend. You can recreate it using Illustrator’s gradient tool. Or, for an easier method, take a screenshot of the legend from Flourish and paste that into your Illustrator canvas.   
       
 12.  Use the text tool to add a headline, chatter and source. Style as you see fit.
