@@ -1733,12 +1733,6 @@ display: none;
 </div>
 
 
-
-<h1 class="title toc-ignore">From Code to Charts: Create DataWrapper
-Graphics Straight from R</h1>
-<h3 class="subtitle">NICAR 2025</h3>
-<h4 class="author">Adam Marton</h4>
-
 </div>
 
 
