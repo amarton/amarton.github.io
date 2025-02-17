@@ -1,10 +1,7 @@
 ---
 layout: post
-title:  From Code to Charts: Create DataWrapper Graphics Straight from R
+title:  From Code to Charts- Create DataWrapper Graphics Straight from R
 ---
-
-NICAR 2025 Presentation by Adam Marton, Philip Merrill College of Journalism
-
 
 
 
