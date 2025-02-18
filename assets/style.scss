@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  text-align: left;
+  text-align: center;
 
   @include mobile {
     line-height: 1.4;
@@ -280,8 +280,9 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 200px;
-   margin-right: 15px;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
 
   @include mobile {
     float: none;
