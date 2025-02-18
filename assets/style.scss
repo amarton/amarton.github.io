@@ -264,6 +264,11 @@ p > img {
 // .masthead
 //
 
+.adam-logo {
+  width:250px;
+  padding-top:10px;
+}
+
 .wrapper-masthead {
   margin-bottom: 25px;
   background:#283d54;
@@ -271,7 +276,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  //border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
